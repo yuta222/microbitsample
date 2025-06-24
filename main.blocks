@@ -4,4 +4,10 @@
         . . . . . 
         . . . . . 
         . . . . .
-        `</field></block></next></block></statement></block></xml>
+        `</field><next><block type="basic_show_icon" id="+rx[?[bcr@SQCZ(04,`L"><field name="i">IconNames.Heart</field><next><block type="device_show_leds" id="[pkP)V~uvRDJ:pT/.2lc"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></statement></block></xml>
